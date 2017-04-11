@@ -1,0 +1,18 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File:        Z:\Documents\Work_Files\Land_Meter\UG_Boards\UG-003\UG-003_3_1\UG-003 (PCB - Design Consistency Status Report).txt
+Report Written:     Friday, March 24, 2017
+Design Path:        Z:\Documents\Work_Files\Land_Meter\UG_Boards\UG-003\UG-003_3_1\UG-003.pcb
+Design Title:       
+Created:            1/24/2017 4:49:17 PM
+Last Saved:         3/24/2017 11:19:18 AM
+Editing Time:       4168 min
+Units:              inches (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "UG-003"
+===================================================================
+
+
+End Of Report.
